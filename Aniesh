@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Departmental store reg. form</title>
+    
+            <h1>DA STORES</h2>
+            <h2>WELCOME TO OUR PAGE</h2>
+            <h3>Personal Data Info</h3>
+    </head>
+    <body>
+        <label>Name:</label>
+        <input type="text"Name="name"><br><br>
+    </body>
+</html>
